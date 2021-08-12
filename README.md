@@ -3,7 +3,7 @@
 
 ## Technologies & Tools
 [![](https://img.shields.io/badge/_-macOS-000000?logo=apple&logoColor=white)](https://apple.com)
-[![](https://img.shields.io/badge/_-Linux-FCC624?logo=linux&logoColor=white)](https://kernel.org)
+[![](https://img.shields.io/badge/_-Linux-FCC624?logo=linux&logoColor=Black)](https://kernel.org)
 [![](https://img.shields.io/badge/_-RedHat-EE0000?logo=RedHat&logoColor=white)](https://www.redhat.com)
 [![](https://img.shields.io/badge/_-Ubuntu-E95420?logo=Ubuntu&logoColor=white)](https://ubuntu.com)
 [![](https://img.shields.io/badge/_-Bash-4EAA25?logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash)
