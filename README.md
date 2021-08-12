@@ -12,4 +12,6 @@
 [![](https://img.shields.io/badge/IAC-Terraform-7B42BC?logo=Terraform&logoColor=white)](https://www.terraform.io)
 [![](https://img.shields.io/badge/Container_Platform-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 [![](https://img.shields.io/badge/Container_Orchestration-Kubernetes-326CE5?logo=Kubernetes&logoColor=white)](https://kubernetes.io)
+[![](https://img.shields.io/badge/VCS-GIT-F05032?logo=Git&logoColor=white)](https://git-scm.com)
+[![](https://img.shields.io/badge/VCS_Hpst-GitHub-181717?logo=GitHub&logoColor=white)](https://github.com)
 
